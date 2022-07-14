@@ -2,6 +2,7 @@
 
 ### Learning 📈
 - back-end server stuff using Rust
+- microservice architecture
 
 ### I like 💚
 - strongly typed languages
