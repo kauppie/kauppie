@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Elias</h1>
 
 ### Learning 📈
-- back-end server stuff using Rust
-- microservice architecture
+- Back-end server stuff using Rust
+- Rust on Windows
 
 ### I like 💚
-- strongly typed languages
-- OSS
-- Rust 🧐
+- Static typing (compile-time FTW)
+- Open Source Software (MIT, Apache 2.0)
+- Rust 🦀
 
 ### I'm familiar with
 
