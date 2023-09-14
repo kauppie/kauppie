@@ -2,7 +2,6 @@
 
 ### Me
 - University student, software developer
-- 4th year studying computer science
 
 ### I'm interested in
 - Rust 🦀
